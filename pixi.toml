@@ -8,7 +8,7 @@ version = "0.1.0"
 [tasks]
 
 [pypi-dependencies]
-hnn-core = { git = "https://github.com/ntolley/hnn-core", rev = "bb196fcbc0a4bdb7b0c46f62522f5c41303a1303", extras=["opt"] }
+hnn-core = { git = "https://github.com/ntolley/hnn-core", rev = "30632b6f2b2005a3ed6574c85b86d9948cdb81c8", extras=["opt"] }
 
 [dependencies]
 NEURON = ">=7.7, <=8.2.7"
